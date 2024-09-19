@@ -1,0 +1,47 @@
+.carousel-item img {
+    height: auto; 
+    max-height: 400px; 
+    width: 100%; 
+    object-fit: contain; 
+    object-position: center; 
+}
+
+.carousel-item {
+    background-color: #343a40; 
+}
+
+
+.movie {
+    margin-bottom: 20px;
+}
+.movie img {
+    width: 100%;
+    height: auto;
+}
+.movie h3 {
+    margin-top: 10px;
+    font-size: 1.25rem;
+}
+.movie p {
+    font-size: 1rem;
+}
+
+ .movie-details .card {
+    margin-bottom: 1rem;
+ }
+ #movie-poster {
+     max-width: 100%;
+      height: auto;
+ }
+.comments, .rating {
+    margin-top: 2rem;
+}
+.movie-title {
+    font-size: 2rem;
+    font-weight: bold;
+}
+.movie-overview-card {
+    background-color: #f8f9fa; 
+    padding: 1rem;
+    border-radius: 0.25rem;
+ }
